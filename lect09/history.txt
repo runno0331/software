@@ -1,0 +1,8 @@
+rectangle 10 10 10 10
+circle 40 30 10
+circle 40 20 40
+rectangle 10 10 10 10
+rectangle 30 20 30 1
+line 30 20 10 5
+circle 30 20 5
+circle 5 30 19
